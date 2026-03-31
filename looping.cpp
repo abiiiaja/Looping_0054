@@ -12,4 +12,8 @@ int main() {
         cout << "Teknologi Informasi UNY" << endl;
     }
     cout << endl;
+
+    // Untuk mendapatkan urutan angka acak yang berbeda
+    srand(time(0));
+
 }
