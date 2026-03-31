@@ -2,5 +2,6 @@
 using namespace std;
 
 int main(){
-    
+    float nilM, nilB, rerata;
+    string status;
 }
